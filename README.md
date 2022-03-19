@@ -3,7 +3,7 @@
 ### Applications of Linear Algebra through examples of Image Processing
 
 ### License Plate Detection
-![Lincense_plate](C:\Users\ShivaShankar\OneDrive - National University of Singapore\Year 1\MA1508E\Group Project\img\OCR.png)
+![License_plate](img\OCR.png)
 
 ### Algorithms
 + Bilateral Algorithm is written from scratch 
