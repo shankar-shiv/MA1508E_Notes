@@ -1,4 +1,5 @@
-# MA1508E Group Project
+# MA1508E Linear Algebra Project
+
 
 ### Applications of Linear Algebra through examples of Image Processing
 
@@ -12,10 +13,3 @@
 
 ### Bilateral Filtering 
 Julia was also employed to speed up the process of Gaussian Filtering, python's too slow damn!
-
-### Authors
-@shankar-shiv
-@Hansel_li
-@Darius
-@Vongvicha
-@Faruq_Khan
